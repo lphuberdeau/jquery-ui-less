@@ -1,0 +1,7 @@
+{
+	"name": "jquery-ui-less",
+	"version": "1.0.0",
+	"dependencies": {
+		"jquery.ui": "1.10.2"
+	}
+}

@@ -15,5 +15,11 @@ Generated files:
 * less/jquery.ui.less, which includes the variables and the jquery-ui-all file. This is the file to compile back to CSS.
 * less/jquery.ui.variables.less, containing all extracted variables at their default values.
 
-Note that this is an early stage project. Feel free to submit pull requests, or report issues.
+## No longer active
+
+This project is no longer active.
+
+A fork of the project made the effort to take it one step further.
+
+http://dc-development.github.io/jquery-ui-less/ 
 
